@@ -1,0 +1,9 @@
+{
+  "name": "reproduction",
+  "type": "module",
+  "private": "true",
+  "main": "index.js",
+  "dependencies": {
+    "edge-runtime": "^1.1.0-beta.31"
+  }
+}
